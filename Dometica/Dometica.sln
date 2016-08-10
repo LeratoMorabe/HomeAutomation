@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dometica", "Dometica\Dometica.csproj", "{16F3D989-F3B1-48E6-AB5E-F19F53C4888B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dometica.Api", "Dometica.Api\Dometica.Api.csproj", "{E1C7113F-F054-4084-9A28-96E98F41DD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dometica.Shared", "Dometica.Shared\Dometica.Shared.csproj", "{F895716E-F0FE-422A-B42A-A5A1275041AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F3D989-F3B1-48E6-AB5E-F19F53C4888B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F3D989-F3B1-48E6-AB5E-F19F53C4888B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F3D989-F3B1-48E6-AB5E-F19F53C4888B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F3D989-F3B1-48E6-AB5E-F19F53C4888B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C7113F-F054-4084-9A28-96E98F41DD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C7113F-F054-4084-9A28-96E98F41DD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C7113F-F054-4084-9A28-96E98F41DD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C7113F-F054-4084-9A28-96E98F41DD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F895716E-F0FE-422A-B42A-A5A1275041AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F895716E-F0FE-422A-B42A-A5A1275041AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F895716E-F0FE-422A-B42A-A5A1275041AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F895716E-F0FE-422A-B42A-A5A1275041AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dupisaniejohann.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Dometica.Api\\Dometica.Api.csproj
+		SccProjectName1 = Dometica.Api
+		SccLocalPath1 = Dometica.Api
+		SccProjectUniqueName2 = Dometica.Shared\\Dometica.Shared.csproj
+		SccProjectName2 = Dometica.Shared
+		SccLocalPath2 = Dometica.Shared
+		SccProjectUniqueName3 = Dometica\\Dometica.csproj
+		SccProjectName3 = Dometica
+		SccLocalPath3 = Dometica
+	EndGlobalSection
+EndGlobal
